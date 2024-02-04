@@ -23,6 +23,7 @@ hr {
   border-top: 1px solid var(--global-divider-color);
 }
 
+
 table {
   td,
   th {
@@ -296,7 +297,7 @@ blockquote {
 
     a {
       i::before {
-        color: var(--global-text-color);
+        color: var(--global-social-icon-color);
         transition-property: all 0.2s ease-in-out;
       }
 
@@ -366,7 +367,7 @@ blockquote {
   text-align: center;
 
   .contact-icons {
-    font-size: 4rem;
+    font-size: 1.5rem;
 
     a {
       i::before {

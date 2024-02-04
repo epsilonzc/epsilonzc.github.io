@@ -1,11 +1,7 @@
 ---
-layout: redirected
-permalink: /cv/
+layout: page
+permalink: /assets/pdf/resume.pdf
 title: cv
 nav: true
 nav_order: 5
-redirect_to: /assets/pdf/resume.pdf
-description: >
-toc:
-  sidebar: left
 ---

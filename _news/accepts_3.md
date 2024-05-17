@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper accepted to DistShift workshop @ NeurIPS 2023!
+One [paper](https://arxiv.org/pdf/2312.05435v1) accepted to DistShift workshop @ NeurIPS 2023!

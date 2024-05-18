@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our work on text coherence modeling is accepted to AAAI 2024! :smile: [[sllides](/assets/pdf/BBScore-pre.pdf), [poster](/assets/pdf/BBScore.pdf)] 
+One [paper](https://arxiv.org/pdf/2312.16893) on text coherence modeling is accepted to AAAI 2024! :smile: [[sllides](/assets/pdf/BBScore-pre.pdf), [poster](/assets/pdf/BBScore.pdf)] 

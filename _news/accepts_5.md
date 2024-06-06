@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper accepted to ACL 2024 Findings.
+One [paper](https://arxiv.org/abs/2406.02830) accepted to ACL 2024 Findings.

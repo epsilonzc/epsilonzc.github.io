@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One [paper](https://arxiv.org/pdf/2503.20104) accepted to CMCL 2orkshop @ NAACL 2025.
+One [paper](https://arxiv.org/pdf/2503.20104) accepted to CMCL workshop @ NAACL 2025.

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I passed my PhD preliminary exam and become a candidate ! :tada:
+I passed my PhD preliminary exam and became a candidate ! :tada:

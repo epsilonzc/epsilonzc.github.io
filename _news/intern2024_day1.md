@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am starting my summer internship as an Applied Scientist @ Amazon.
+I am starting my summer internship as an Applied Scientist @Amazon.

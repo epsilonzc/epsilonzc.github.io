@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /assets/pdf/resume.pdf
+permalink: /assets/pdf/Zhecheng_Resume.pdf
 title: cv
 newtab: true
 nav: true

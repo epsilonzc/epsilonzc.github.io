@@ -10,17 +10,17 @@
             <abbr
               class="badge"
               style="display: block; width: 100%; background-color: {{ site.data.venues[entry.abbr].color }};"
-              ><a href="{{site.data.venues[entry.abbr].url}}">{{ entry.abbr }}</a></abbr
+              ><a href="{{site.data.venues[entry.abbr].url}}" style="color: white;">{{ entry.abbr }}</a></abbr
             >
             {% else %}
             <abbr
               class="badge"
               style="display: block; width: 100%;"
-              ><a href="{{site.data.venues[entry.abbr].url}}">{{ entry.abbr }}</a></abbr
+              ><a href="{{site.data.venues[entry.abbr].url}}" style="color: black;">{{ entry.abbr }}</a></abbr
             >
             {% endif %}
           {% else %}
-            <abbr class="badge" style="display: block; width: 100%;">{{ entry.abbr }}</abbr>
+            <abbr class="badge" style="display: block; width: 100%; color: black;">{{ entry.abbr }}</abbr>
           {% endif %}
         </div>
       {%- endif -%}

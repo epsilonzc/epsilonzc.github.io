@@ -1,3 +1,35 @@
+"EMNLP":
+  url: https://2025.emnlp.org/
+  color: "#1e88e5"
+
+"ACL":
+  url: https://www.aclweb.org/
+  color: "#d32f2f"
+
+"NAACL":
+  url: https://naacl.org/
+  color: "#7b1fa2"
+
+"AAAI":
+  url: https://aaai.org/
+  color: "#00796b"
+
+"AMIA":
+  url: https://amia.org/
+  color: "#0277bd"
+
+"NeurIPS":
+  url: https://neurips.cc/
+  color: "#5e35b1"
+
+"JBI":
+  url: https://www.sciencedirect.com/journal/journal-of-biomedical-informatics
+  color: "#ff8f00"
+
+"ICHI":
+  url: https://ieeeichi.org/
+  color: "#00897b"
+
 "AJP":
   url: https://aapt.scitation.org/journal/ajp
   color: "#00369f"

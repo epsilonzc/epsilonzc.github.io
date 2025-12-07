@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: AI and NLP Researcher @ <a href='https://twin-cities.umn.edu'>University of Minnesota</a>
+subtitle: AI Researcher @ <a href='https://twin-cities.umn.edu'>University of Minnesota</a>
           
 profile:
   align: right
